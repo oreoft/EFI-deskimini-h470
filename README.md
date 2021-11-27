@@ -4,13 +4,15 @@
 | ----------- | ------------------- |
 | Laptop      | 华擎deskmini-h470/海尔云悦mini N-T76 |
 | Motherboard | 华擎|
-| CPU         | Intel Core i5-10400(打算马上升级i7-10700) |
+| CPU         | Intel Core i5-10400(打算马上升级i7-10900es) |
+| Fans        | 利民 AXP-90 47mm 纯铜---[更换教程](https://www.someget.cn/other/2021/11/17/others-replace_fans01.html) |
 | RAM         | SK Hynix 16G*2 2667 MHz |
 | Hard Disk   | WDC PC SN730 SDBPNTY-512G-1101 512G M.2 NVMe SSD |
 | GPU         | Intel Graphics UHD 630 |
 | Sound Card  | Realtek ALC235 & Intel SST |
 | Ethernet    | Realtek USB GbE Family Controller |
 | WLAN        | Broadcom BCM94360CD |
+
 **理论cpu、内存条、固态简单替换不影响使用本efi，但cpu不能是es不显版，固态不能是pm981a之类的雷盘**
 
 ## 注意事项
