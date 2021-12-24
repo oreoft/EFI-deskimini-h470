@@ -4,7 +4,7 @@
 | ----------- | ------------------- |
 | Laptop      | 华擎deskmini-h470/海尔云悦mini N-T76 |
 | Motherboard | 华擎|
-| CPU         | Intel Core i7-10900es |
+| CPU         | Intel Core i9-10900es |
 | Fans        | 利民 AXP-90 47mm 纯铜---[更换教程](https://www.someget.cn/other/2021/11/17/others-replace_fans01.html) |
 | RAM         | SK Hynix 16G*2 2667 MHz |
 | Hard Disk   | WDC PC SN730 SDBPNTY-512G-1101 512G M.2 NVMe SSD |
@@ -13,7 +13,7 @@
 | Ethernet    | Realtek USB GbE Family Controller |
 | WLAN        | Broadcom BCM94360CD |
 
-**理论cpu、内存条、固态简单替换不影响使用本efi，但cpu不能是es不显版，固态不能是pm981a之类的雷盘**
+**理论cpu、内存条、固态简单替换不影响使用本efi，固态不能是pm981a之类的雷盘**
 
 ## 注意事项
 1. deskmini有两个音频孔，分别位于前面板c口和usb上面和下面，请插下面那个，下面带input和output输出，上面孔只有input的mic
